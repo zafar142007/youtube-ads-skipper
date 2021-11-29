@@ -6,4 +6,5 @@ Manual invocation:
 2. Run the code in the file given in this repository.
 
 Script manager invocation:
+
 You can also use Greasemonkey Firefox extension to run this script automatically on opening youtube.
